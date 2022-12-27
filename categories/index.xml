@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on SIGma</title>
-    <link>http://cstheory.org/categories/</link>
+    <link>https://cstheory.org/categories/</link>
     <description>Recent content in Categories on SIGma</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://cstheory.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://cstheory.org/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

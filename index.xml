@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SIGma</title>
-    <link>http://cstheory.org/</link>
+    <link>https://cstheory.org/</link>
     <description>Recent content on SIGma</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://cstheory.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://cstheory.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://cstheory.org/about/</link>
+      <link>https://cstheory.org/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://cstheory.org/about/</guid>
+      <guid>https://cstheory.org/about/</guid>
       
       <description>&lt;h1 id=&#34;about&#34;&gt;About&lt;/h1&gt;
 &lt;p&gt;Coming Soon&lt;/p&gt;
