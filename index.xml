@@ -13,7 +13,9 @@
       
       <guid>http://example.org/about/</guid>
       
-      <description>About Coming Soon</description>
+      <description>&lt;h1 id=&#34;about&#34;&gt;About&lt;/h1&gt;
+&lt;p&gt;Coming Soon&lt;/p&gt;
+</description>
       
     </item>
     
