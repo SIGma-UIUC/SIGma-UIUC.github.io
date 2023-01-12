@@ -5,6 +5,9 @@
     <loc>https://cstheory.org/about/</loc>
     <priority>0</priority>
   </url><url>
+    <loc>https://cstheory.org/meetings/</loc>
+    <priority>0</priority>
+  </url><url>
     <loc>https://cstheory.org/categories/</loc>
   </url><url>
     <loc>https://cstheory.org/</loc>
