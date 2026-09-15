@@ -1,39 +1,43 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>SIGma</title>
-    <link>https://cstheory.org/</link>
-    <description>Recent content on SIGma</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <atom:link href="https://cstheory.org/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title></title>
-      <link>https://cstheory.org/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cstheory.org/about/</guid>
-      <description>Learn about SIGma</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://cstheory.org/alums/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cstheory.org/alums/</guid>
-      <description>Learn about alumni involvement</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://cstheory.org/discord/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cstheory.org/discord/</guid>
-      <description>The SIGma Discord</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://cstheory.org/meetings/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cstheory.org/meetings/</guid>
-      <description>Look at past meetings!</description>
-    </item>
-  </channel>
+	<channel>
+		<title>SIGma</title>
+		<link>https://cstheory.org/</link>
+		<description>Recent content on SIGma</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<atom:link href="https://cstheory.org/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title></title>
+				<link>https://cstheory.org/about/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://cstheory.org/about/</guid>
+				<description>Learn about SIGma</description>
+			</item>
+			<item>
+				<title></title>
+				<link>https://cstheory.org/alums/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://cstheory.org/alums/</guid>
+				<description>Learn about alumni involvement</description>
+			</item>
+			<item>
+				<title></title>
+				<link>https://cstheory.org/discord/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://cstheory.org/discord/</guid>
+				<description>The SIGma Discord</description>
+			</item>
+			<item>
+				<title></title>
+				<link>https://cstheory.org/meetings/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://cstheory.org/meetings/</guid>
+				<description>Look at past meetings!</description>
+			</item>
+	</channel>
 </rss>
